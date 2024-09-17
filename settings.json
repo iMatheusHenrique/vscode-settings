@@ -28,7 +28,7 @@
       "editor.fontLigatures": true,
       "editor.fontSize": 20,
       "editor.lineHeight": 30,
-      "window.zoomLevel": 1,
+      "window.zoomLevel": 0.9,
     "gitlens.codeLens.authors.enabled": false,
     "security.workspace.trust.untrustedFiles": "newWindow",
     "terminal.integrated.gpuAcceleration": "on",
