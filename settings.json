@@ -1,0 +1,97 @@
+{
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.associations": {
+        ".env.*": "dotenv",
+        ".prettierrc": "json",
+        "*.css": "css",
+        ".dev.vars": "dotenv"
+      },
+      "editor.rulers": [
+          {
+              "column": 80,
+              "color": "#eeeeee11"
+          },
+          {
+              "column": 140,
+              "color": "#99ffff10"
+          }
+      ],
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+      "git.enableSmartCommit": true,
+      "terminal.integrated.fontFamily":  "'Fira Code'",
+      "editor.semanticHighlighting.enabled": false,
+      "editor.cursorBlinking": "expand",
+      "workbench.productIconTheme": "fluent-icons",
+      "editor.fontFamily": "'Fira Code'",
+      "editor.fontLigatures": true,
+      "editor.fontSize": 20,
+      "editor.lineHeight": 30,
+      "window.zoomLevel": 1,
+    "gitlens.codeLens.authors.enabled": false,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "terminal.integrated.gpuAcceleration": "on",
+    "apc.activityBar": {
+      "position": "bottom",
+      "hideSettings": true,
+      "size": 48,
+      "itemMargin": 8,
+      "itemSize": 32
+    },
+    "cSpell.language": "en,pt",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.renderCharacters":false,
+    "workbench.action.terminal.openNativeConsole": "True",
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+      "titleBarStyle": "hiddenInset",
+      "trafficLightPosition": {
+        "x": 11,
+        "y": 10
+      },
+      "opacity": 1,
+      "vibrancy": "dark",
+      "frame": false
+    },
+    "apc.header": {
+      "height": 36
+    },
+    "apc.listRow": {
+      "height": 24
+    },
+    "apc.font.family": "Inter",
+    "apc.stylesheet": {
+      ".title-label > h2": "display: none",
+      ".editor-actions": "display: none",
+      ".nosidebar .inline-tabs-placeholder": "width: 75px",
+      ".pane-header": "padding: 0 8px",
+      ".pane-body": "padding: 8px",
+      ".split-view-view:first-child .pane-header": "display: none !important;",
+      ".monaco-list-row": "border-radius: 4px;",
+      ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+    },
+    "editor.scrollbar.vertical": "hidden",
+    "explorer.sortOrder": "foldersNestsFiles",
+    "explorer.fileNesting.patterns": {
+      "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
+      "tailwind.config.*": "tailwind.config*, postcss.config*",
+      ".env.local": ".env*",
+      ".env": ".env*"
+    },
+    "explorer.fileNesting.enabled": true,
+    "workbench.statusBar.visible": false,
+    "editor.tokenColorCustomizations": {
+      "textMateRules": []
+    },
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.activityBar.location": "default",
+    "breadcrumbs.enabled": false,
+    "python.analysis.extraPaths": [],
+    "redhat.telemetry.enabled": true
+  }
